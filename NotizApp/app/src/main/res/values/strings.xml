@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotizApp</string>
+    <string name="note_title">Title der Notiz</string>
+    <string name="note_Content">Inhalt der Notiz</string>
+</resources>
